@@ -2,7 +2,7 @@
 
 ## Part 1
 
-In part 1, we will be training our own dataset to determine your bedtime based on your desired hours of sleep, wake up time, and predicted stress levels. For this purpose, we will be using the SleepyTimeStress dataset, which can be found directly in this repository. In order to download this file, you can download the entire repository by clicking on the `code` button in the top left, then selecting `Download Zip`. The .README file can then be deleted (unless you'd like to keep a local copy of these instructions!)
+In part 1, we will be training our own dataset to determine your bedtime based on your desired hours of sleep, wake up time, and predicted stress levels. For this purpose, we will be using the SleepyTimeStress dataset, which can be found directly in this repository. In order to download this file, you can download the entire repository by clicking on the `code` button in the top left, then selecting `Download Zip`. The .README file can then be deleted (unless you'd like to keep a local copy of these instructions!). This data set was adapted from the BetterRest training dataset from Hacking with SwiftUI – thank you for making fun and engaging tutorials that make learning SwiftUI a joy.
 
 ## Part 2
 
